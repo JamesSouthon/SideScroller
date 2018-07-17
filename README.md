@@ -1,6 +1,6 @@
 # SideScroller
 
-This is the GitHub for the unnammed SideScroller game.
+The unnammed game.
 
 
 
