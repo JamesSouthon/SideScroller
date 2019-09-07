@@ -1,7 +1,4 @@
 # SideScroller
 
-The unnammed game.
-
-
-
+The unnammed game 2D Sidescroller game made in Unity.
 
